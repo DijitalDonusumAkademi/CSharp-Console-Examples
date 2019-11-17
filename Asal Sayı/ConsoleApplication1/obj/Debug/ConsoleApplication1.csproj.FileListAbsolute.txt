@@ -1,0 +1,12 @@
+C:\Users\OGR-PC\Desktop\ConsoleApplication1\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe.config
+C:\Users\OGR-PC\Desktop\ConsoleApplication1\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe
+C:\Users\OGR-PC\Desktop\ConsoleApplication1\ConsoleApplication1\bin\Debug\ConsoleApplication1.pdb
+C:\Users\OGR-PC\Desktop\ConsoleApplication1\ConsoleApplication1\obj\Debug\ConsoleApplication1.exe
+C:\Users\OGR-PC\Desktop\ConsoleApplication1\ConsoleApplication1\obj\Debug\ConsoleApplication1.pdb
+C:\Users\Sinan\Desktop\C #\Lise-Uygulamalari\00Arşivler\16kasım\16kasım\ConsoleApplication1\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe.config
+C:\Users\Sinan\Desktop\C #\Lise-Uygulamalari\00Arşivler\16kasım\16kasım\ConsoleApplication1\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe
+C:\Users\Sinan\Desktop\C #\Lise-Uygulamalari\00Arşivler\16kasım\16kasım\ConsoleApplication1\ConsoleApplication1\bin\Debug\ConsoleApplication1.pdb
+C:\Users\Sinan\Desktop\C #\Lise-Uygulamalari\00Arşivler\16kasım\16kasım\ConsoleApplication1\ConsoleApplication1\obj\Debug\ConsoleApplication1.csprojAssemblyReference.cache
+C:\Users\Sinan\Desktop\C #\Lise-Uygulamalari\00Arşivler\16kasım\16kasım\ConsoleApplication1\ConsoleApplication1\obj\Debug\ConsoleApplication1.csproj.CoreCompileInputs.cache
+C:\Users\Sinan\Desktop\C #\Lise-Uygulamalari\00Arşivler\16kasım\16kasım\ConsoleApplication1\ConsoleApplication1\obj\Debug\ConsoleApplication1.exe
+C:\Users\Sinan\Desktop\C #\Lise-Uygulamalari\00Arşivler\16kasım\16kasım\ConsoleApplication1\ConsoleApplication1\obj\Debug\ConsoleApplication1.pdb
