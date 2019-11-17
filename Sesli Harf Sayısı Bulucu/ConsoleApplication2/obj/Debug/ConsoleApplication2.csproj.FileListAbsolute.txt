@@ -1,0 +1,12 @@
+C:\Users\GanizTR\Desktop\Sinan Ganiz\Lesson\Nesne Tabanlı Programlma\7aralıga_odev\ConsoleApplication2\ConsoleApplication2\bin\Debug\ConsoleApplication2.exe.config
+C:\Users\GanizTR\Desktop\Sinan Ganiz\Lesson\Nesne Tabanlı Programlma\7aralıga_odev\ConsoleApplication2\ConsoleApplication2\bin\Debug\ConsoleApplication2.exe
+C:\Users\GanizTR\Desktop\Sinan Ganiz\Lesson\Nesne Tabanlı Programlma\7aralıga_odev\ConsoleApplication2\ConsoleApplication2\bin\Debug\ConsoleApplication2.pdb
+C:\Users\GanizTR\Desktop\Sinan Ganiz\Lesson\Nesne Tabanlı Programlma\7aralıga_odev\ConsoleApplication2\ConsoleApplication2\obj\Debug\ConsoleApplication2.exe
+C:\Users\GanizTR\Desktop\Sinan Ganiz\Lesson\Nesne Tabanlı Programlma\7aralıga_odev\ConsoleApplication2\ConsoleApplication2\obj\Debug\ConsoleApplication2.pdb
+C:\Users\Sinan\Desktop\C #\Lise-Uygulamalari\00Arşivler\7aralıga_odev\7aralıga_odev\ConsoleApplication2\ConsoleApplication2\bin\Debug\ConsoleApplication2.exe.config
+C:\Users\Sinan\Desktop\C #\Lise-Uygulamalari\00Arşivler\7aralıga_odev\7aralıga_odev\ConsoleApplication2\ConsoleApplication2\bin\Debug\ConsoleApplication2.exe
+C:\Users\Sinan\Desktop\C #\Lise-Uygulamalari\00Arşivler\7aralıga_odev\7aralıga_odev\ConsoleApplication2\ConsoleApplication2\bin\Debug\ConsoleApplication2.pdb
+C:\Users\Sinan\Desktop\C #\Lise-Uygulamalari\00Arşivler\7aralıga_odev\7aralıga_odev\ConsoleApplication2\ConsoleApplication2\obj\Debug\ConsoleApplication2.csprojAssemblyReference.cache
+C:\Users\Sinan\Desktop\C #\Lise-Uygulamalari\00Arşivler\7aralıga_odev\7aralıga_odev\ConsoleApplication2\ConsoleApplication2\obj\Debug\ConsoleApplication2.csproj.CoreCompileInputs.cache
+C:\Users\Sinan\Desktop\C #\Lise-Uygulamalari\00Arşivler\7aralıga_odev\7aralıga_odev\ConsoleApplication2\ConsoleApplication2\obj\Debug\ConsoleApplication2.exe
+C:\Users\Sinan\Desktop\C #\Lise-Uygulamalari\00Arşivler\7aralıga_odev\7aralıga_odev\ConsoleApplication2\ConsoleApplication2\obj\Debug\ConsoleApplication2.pdb

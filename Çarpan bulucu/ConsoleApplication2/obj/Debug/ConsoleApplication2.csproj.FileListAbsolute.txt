@@ -1,0 +1,13 @@
+C:\Users\OGR\Desktop\ConsoleApplication2\ConsoleApplication2\bin\Debug\ConsoleApplication2.exe.config
+C:\Users\OGR\Desktop\ConsoleApplication2\ConsoleApplication2\bin\Debug\ConsoleApplication2.exe
+C:\Users\OGR\Desktop\ConsoleApplication2\ConsoleApplication2\bin\Debug\ConsoleApplication2.pdb
+C:\Users\OGR\Desktop\ConsoleApplication2\ConsoleApplication2\obj\Debug\ConsoleApplication2.csprojResolveAssemblyReference.cache
+C:\Users\OGR\Desktop\ConsoleApplication2\ConsoleApplication2\obj\Debug\ConsoleApplication2.exe
+C:\Users\OGR\Desktop\ConsoleApplication2\ConsoleApplication2\obj\Debug\ConsoleApplication2.pdb
+C:\Users\Sinan\Desktop\C #\Lise-Uygulamalari\00Arşivler\10kasım\10kasım\ConsoleApplication2\ConsoleApplication2\bin\Debug\ConsoleApplication2.exe.config
+C:\Users\Sinan\Desktop\C #\Lise-Uygulamalari\00Arşivler\10kasım\10kasım\ConsoleApplication2\ConsoleApplication2\bin\Debug\ConsoleApplication2.exe
+C:\Users\Sinan\Desktop\C #\Lise-Uygulamalari\00Arşivler\10kasım\10kasım\ConsoleApplication2\ConsoleApplication2\bin\Debug\ConsoleApplication2.pdb
+C:\Users\Sinan\Desktop\C #\Lise-Uygulamalari\00Arşivler\10kasım\10kasım\ConsoleApplication2\ConsoleApplication2\obj\Debug\ConsoleApplication2.csprojAssemblyReference.cache
+C:\Users\Sinan\Desktop\C #\Lise-Uygulamalari\00Arşivler\10kasım\10kasım\ConsoleApplication2\ConsoleApplication2\obj\Debug\ConsoleApplication2.csproj.CoreCompileInputs.cache
+C:\Users\Sinan\Desktop\C #\Lise-Uygulamalari\00Arşivler\10kasım\10kasım\ConsoleApplication2\ConsoleApplication2\obj\Debug\ConsoleApplication2.exe
+C:\Users\Sinan\Desktop\C #\Lise-Uygulamalari\00Arşivler\10kasım\10kasım\ConsoleApplication2\ConsoleApplication2\obj\Debug\ConsoleApplication2.pdb
